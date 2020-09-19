@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ProjectPDJFJ:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d2ece10-b117-41ea-b966-fe98a4efa41a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1eoYvR6fXLCSOO5XiV3OlKAuVFq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="projectpdjfj" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/vub/pdproject/search" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.vub.pdproject.search" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Arthur\Desktop\VUB\P&amp;D Project\ProjectOpdracten\Opdracht Parallelisme\Project-parallellisme\ProjectPDJFJ\src\com\vub\pdproject\search" />
+      <recent name="C:\Users\Arthur\Desktop\VUB\P&amp;D Project\ProjectOpdracten\Opdracht Parallelisme\Project-parallellisme\ProjectPDJFJ\src" />
+      <recent name="C:\Users\Arthur\Desktop\P&amp;D Project\ProjectOpdracten\Opdracht Parallelisme - Copy\Project-parallellisme\ProjectPDJFJ\src\com\vub\pdproject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.vub.pdproject.Main" />
+      <module name="ProjectPDJFJ" />
+      <option name="PROGRAM_PARAMETERS" value="benchmark 1 100 &quot;4, 8, 16&quot; &quot;0, 10, 100&quot; out=out.txt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vub.pdproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainOLD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainOLD" />
+      <module name="ProjectPDJFJ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests" type="JUnit" factoryName="JUnit">
+      <module name="ProjectPDJFJ" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="PACKAGE_NAME" value="com.vub.pdproject" />
+      <option name="MAIN_CLASS_NAME" value="com.vub.pdproject.Main" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.MainOLD" />
+      <item itemvalue="JUnit.Tests" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainOLD" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d2ece10-b117-41ea-b966-fe98a4efa41a" name="Default Changelist" comment="" />
+      <created>1594989642975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594989642975</updated>
+      <workItem from="1594989644179" duration="6844000" />
+      <workItem from="1595078280726" duration="122000" />
+      <workItem from="1595078417073" duration="3000" />
+      <workItem from="1595078463137" duration="4000" />
+      <workItem from="1595496124001" duration="15230000" />
+      <workItem from="1595513479474" duration="3840000" />
+      <workItem from="1595517635850" duration="778000" />
+      <workItem from="1595665881962" duration="718000" />
+      <workItem from="1595755967349" duration="1430000" />
+      <workItem from="1595839846107" duration="616000" />
+      <workItem from="1596100374011" duration="7955000" />
+      <workItem from="1596133280534" duration="2526000" />
+      <workItem from="1596141356037" duration="204000" />
+      <workItem from="1596185492843" duration="10673000" />
+      <workItem from="1596715903826" duration="12784000" />
+      <workItem from="1596790495445" duration="17318000" />
+      <workItem from="1596878226108" duration="6544000" />
+      <workItem from="1596963014568" duration="37000" />
+      <workItem from="1596993798604" duration="12000" />
+      <workItem from="1596993865001" duration="116000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="722" y="371" key="#Main" timestamp="1594995632202">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="722" y="371" key="#Main/0.0.3440.1400@0.0.3440.1400" timestamp="1594995632202" />
+    <state x="1603" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596993906707">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1603" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1596993906707" />
+    <state x="740" y="406" width="792" height="588" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1595513408539">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="740" y="406" width="792" height="588" key="#com.intellij.ide.macro.MacrosDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1595513408539" />
+    <state x="1107" y="607" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1596715925253">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1107" y="607" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1596715925253" />
+    <state x="1090" y="476" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1596887251442">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1090" y="476" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1596887251442" />
+    <state x="694" y="463" key="EnvironmentVariablesDialog" timestamp="1595513414199">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="694" y="463" key="EnvironmentVariablesDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1595513414199" />
+    <state x="785" y="456" key="FileChooserDialogImpl" timestamp="1596716571849">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="785" y="456" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1596716571849" />
+    <state width="2003" height="413" key="GridCell.Tab.0.bottom" timestamp="1596993980869">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="2003" height="413" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1596993980869" />
+    <state width="2003" height="413" key="GridCell.Tab.0.center" timestamp="1596993980869">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="2003" height="413" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1596993980869" />
+    <state width="2003" height="413" key="GridCell.Tab.0.left" timestamp="1596993980869">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="2003" height="413" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1596993980869" />
+    <state width="2003" height="413" key="GridCell.Tab.0.right" timestamp="1596993980869">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="2003" height="413" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1596993980869" />
+    <state x="670" y="400" width="938" height="600" key="NewModule_or_Project.wizard" timestamp="1595078368657">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="670" y="400" width="938" height="600" key="NewModule_or_Project.wizard/0.0.3440.1400@0.0.3440.1400" timestamp="1595078368657" />
+    <state x="702" y="525" key="com.intellij.ide.util.TipDialog" timestamp="1596963041967">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="702" y="525" key="com.intellij.ide.util.TipDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1596963041967" />
+    <state x="843" y="452" width="607" height="536" key="find.popup" timestamp="1596821835184">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="843" y="452" width="607" height="536" key="find.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1596821835184" />
+    <state x="995" y="342" key="run.anything.popup" timestamp="1596888772698">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="995" y="342" key="run.anything.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1596888772698" />
+  </component>
+</project>

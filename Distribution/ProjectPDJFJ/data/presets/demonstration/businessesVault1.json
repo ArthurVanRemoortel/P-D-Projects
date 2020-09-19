@@ -1,0 +1,25 @@
+{
+  "business_id": "fUqTs96_C5xJWnYpYOnzjA",
+  "name": "List",
+  "neighborhood": "",
+  "address": "Liststr. 25",
+  "city": "Stuttgart",
+  "stars": 4.5,
+  "review_count": 17,
+  "reviews": [
+    "HNKUSQyYf3tmyRdKfugtuw",
+    "TdH2gKf5b8bOcPqYOFSL0w"
+  ]
+}
+{
+  "business_id": "jzIk6YE5cErxRSeOAPZV_g",
+  "name": "Herr K�chele",
+  "neighborhood": "",
+  "address": "Calwer Passage",
+  "city": "Stuttgart",
+  "stars": 4.0,
+  "review_count": 4,
+  "reviews": [
+    "qbOfPO-75cG8T6zu-FtGqw"
+  ]
+}

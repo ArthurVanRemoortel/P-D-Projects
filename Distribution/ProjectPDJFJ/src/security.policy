@@ -1,0 +1,6 @@
+grant {
+    permission java.security.AllPermission;
+    permission java.net.SocketPermission "192.168.50.101:1234", "connect, resolve";
+    permission java.net.SocketPermission "192.168.50.10:1234", "connect, resolve";
+    permission java.net.SocketPermission "localhost:80", "connect, resolve";
+};
